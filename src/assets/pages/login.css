@@ -1,0 +1,23 @@
+
+@import url("../css/bootstrap.css");
+@import url("~bootstrap-icons/font/bootstrap-icons.min.css");
+@import url('../css/app.css');
+.login-form{
+    overflow-x: hidden;
+}
+
+.auti-custom-input-icon{
+    top: 28px !important;
+}
+
+.btn-primary{
+    background-color: #3444c1;
+}
+
+.auth-form-group-custom label{
+    top:0 !important;
+}
+
+/* .auth-form-group-custom .form-control{
+    padding-top: ;
+} */

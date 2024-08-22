@@ -1,0 +1,12 @@
+.custom-backdrop {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.custom-modal .modal-dialog {
+    max-width: 70% !important;
+}
+
+
+.custom-modal {
+    z-index: 1000 !important;
+}

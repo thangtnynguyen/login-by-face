@@ -1,0 +1,11 @@
+@import url("../css/bootstrap.css");
+@import url("~bootstrap-icons/font/bootstrap-icons.min.css");
+@import url('../css/app.css');
+@import 'antd/dist/reset.css'; 
+
+
+
+/* .a{
+    align-items: center;
+    justify-content: center;
+} */

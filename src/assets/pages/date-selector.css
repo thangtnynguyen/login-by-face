@@ -1,0 +1,28 @@
+.box-date-school {
+    width: 100%;
+}
+
+.select-box-date-school {
+    width: 100%;
+}
+
+.btn-select-box-date-school {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+}
+
+.date-school-selected {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.dropdown-select-box-date-school {
+    width: 100%;
+    max-height: 200px;
+    overflow-y: auto;
+}
